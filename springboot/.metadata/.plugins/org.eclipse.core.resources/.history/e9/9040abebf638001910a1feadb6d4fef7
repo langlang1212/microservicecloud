@@ -1,0 +1,13 @@
+package com.example.springboot.arithmetic;
+/**
+ * 
+ * @author Administrator
+ *
+ */
+public class Tuzi {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1553433604009_3" label="springCloud2018" name="springCloud2018">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-8001" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-8003" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-config-dept-client-8001" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-eureka-7002" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-hystrix-8001" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-zuul-gateway-9527" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-config-client-3355" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-8002" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-eureka-7001" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-eureka-7003" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-consumer-dept-80" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-consumer-dept-feign" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-config-3345" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-config-eureka-client-7001" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-consumer-hystrix-dashboard" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1548418023262_0" label="Window Working Set" name="Aggregate for window 1548418023262"/>
+<mruList name="springCloud2018"/>
+</workingSetManager>

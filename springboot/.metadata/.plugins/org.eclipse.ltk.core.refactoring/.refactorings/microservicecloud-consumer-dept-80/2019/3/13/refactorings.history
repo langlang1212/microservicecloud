@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;microservicecloud-consumer-dept-80/src/main/resources/applicationContext.yml&apos; to &apos;application.yml&apos;" description="Rename resource &apos;applicationContext.yml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/applicationContext.yml" name="application.yml" stamp="1553692508139" updateReferences="true"/>
+</session>

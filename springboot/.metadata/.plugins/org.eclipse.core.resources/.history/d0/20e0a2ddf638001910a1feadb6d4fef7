@@ -1,0 +1,9 @@
+package com.example.springboot.arithmetic;
+
+public class Tuzi {
+
+	public static void main(String[] args) {
+
+	}
+
+}
